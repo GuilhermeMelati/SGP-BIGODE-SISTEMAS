@@ -1,0 +1,35 @@
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+button {
+    margin: 10px;
+    margin-top: 20px;
+}
+
+button.delete {
+    background-color: rgb(168, 7, 7);
+    color: white;
+}
+
+button.cancel {
+    background-color: rgba(0, 0, 0, 0.281);
+}
+
+::ng-deep .mat-focused .mat-form-field-label {
+    color: black !important;
+}
+
+::ng-deep.mat-form-field-ripple {
+    background-color: black !important;
+    ;
+}
+
+h1 {
+    background-color: brown;
+    color: white;
+    text-decoration: double;
+    text-align: center;
+}
