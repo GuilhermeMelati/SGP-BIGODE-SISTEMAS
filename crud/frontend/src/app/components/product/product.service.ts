@@ -10,7 +10,7 @@ import { map, catchError } from 'rxjs/operators'
 })
 export class ProductService {
 
-  baseUrl = "http://192.168.0.107:8080/products"
+  baseUrl = "http://localhost:8080/products"
 
   constructor(private snackBar: MatSnackBar, private http: HttpClient) { }
 
