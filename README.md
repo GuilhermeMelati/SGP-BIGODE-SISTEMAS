@@ -1,4 +1,4 @@
-# SGP-BIGODE_SISTEMAS
+# SGP-BIGODE-SISTEMAS
 ## Página WEB desenvolvida em Angular 9 para gerenciamento de produtos.
 ![My Post](https://user-images.githubusercontent.com/65763317/91898732-8f21b800-ec72-11ea-8bf8-d1972bac1edc.png)
 
